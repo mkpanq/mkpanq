@@ -1,10 +1,14 @@
-### Hi there 👋
+# Hi I'm Marek 👋 
+
+I'm Marek Pankowski, a product developer from Poland, with a strong focus on interface design & user experience. I'm passionate about creating modern, full-stack, user-faced digital products.
+After being mainly backend dev for a couple of years, I’m currently focusing on developing my skills in frontend technologies and creating side projects with learn in public approach.
+
+Do you want to know a little more about me? Visit [my website](mkpanq.com)\
+I'm also on [Twitter](https://twitter.com/mkpanq)
+
+Besides programing I’m in love with Formula 1 🏎️, NBA Basketball 🏀 and playstation gaming  🎮 :)
 
 <!--
-**mkpanq/mkpanq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
