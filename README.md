@@ -6,7 +6,7 @@
 - 🏛️ Worked in startups, software agencies, and product companies — from greenfield builds to messy legacy systems
 - 🛠️ I focus on frontend quality and UX, but I’m equally invested in clean architecture and reliable backend systems
 - 🤝🏻 I’m PSPO I certified and experienced in agile teams — I care about delivering real value, not just shipping features
-- 📫 Reach me via email or on [LinkedIn](https://www.linkedin.com/in/your-link), [GitHub](https://github.com/your-handle), or [Bluesky](https://bsky.app/profile/your-handle)
+- 📫 Reach me via email or on [LinkedIn](https://www.linkedin.com/in/mkpanq), [GitHub](https://github.com/mkpanq), or [Bluesky](https://bsky.app/profile/mkpanq.com)
 
 
 Outside of work, I’m into Formula 1 🏎️, the NBA 🏀 (go Heat 🔥), sim racing 🛞 and the occasional PS5 session 🎮
