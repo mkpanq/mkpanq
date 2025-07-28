@@ -10,3 +10,5 @@
 
 
 Outside of work, I’m into Formula 1 🏎️, the NBA 🏀 (go Heat 🔥), sim racing 🛞 and the occasional PS5 session 🎮
+
+_Last update: July 28th 2025_
