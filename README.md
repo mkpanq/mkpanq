@@ -8,6 +8,8 @@
 - 🤝🏻 I’m PSPO I certified and experienced in agile teams — I care about delivering real value, not just shipping features
 - 📫 Reach me via email or on [LinkedIn](https://www.linkedin.com/in/mkpanq), [GitHub](https://github.com/mkpanq), or [Bluesky](https://bsky.app/profile/mkpanq.com)
 
+🌼 I'm currently working on a small Next.js app for Personal Finance Management. I haven't found any already created solutions, so I decided to create my own :) [Here's the repo](https://github.com/mkpanq/cama)
+
 
 Outside of work, I’m into Formula 1 🏎️, the NBA 🏀 (go Heat 🔥), sim racing 🛞 and the occasional PS5 session 🎮
 
