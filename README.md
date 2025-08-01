@@ -9,8 +9,8 @@
 - 📫 Reach me via email or on [LinkedIn](https://www.linkedin.com/in/mkpanq), [GitHub](https://github.com/mkpanq), or [Bluesky](https://bsky.app/profile/mkpanq.com)
 
 **💪🏻 Currently working on**
-- Improving my personal website – mkpanq.com
-- Building an open source personal finance app – Cama
+- Improving my personal website – [mkpanq.com](mkpanq.com)
+- Building an open source personal finance app – [Cama](https://github.com/mkpanq/cama)
 
 **📖 Currently learning**
 - How to build scalable, local AI agentic infrastructures
