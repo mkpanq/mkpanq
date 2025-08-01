@@ -8,9 +8,13 @@
 - 🤝🏻 I’m PSPO I certified and experienced in agile teams — I care about delivering real value, not just shipping features
 - 📫 Reach me via email or on [LinkedIn](https://www.linkedin.com/in/mkpanq), [GitHub](https://github.com/mkpanq), or [Bluesky](https://bsky.app/profile/mkpanq.com)
 
-🌼 I'm currently working on a small Next.js app for Personal Finance Management. I haven't found any already created solutions, so I decided to create my own :) [Here's the repo](https://github.com/mkpanq/cama)
+**💪🏻 Currently working on**
+- Improving my personal website – mkpanq.com
+- Building an open source personal finance app – Cama
 
+**📖 Currently learning**
+- How to build scalable, local AI agentic infrastructures
 
 Outside of work, I’m into Formula 1 🏎️, the NBA 🏀 (go Heat 🔥), sim racing 🛞 and the occasional PS5 session 🎮
 
-_Last update: July 28th 2025_
+_Last update: August 1st 2025_
