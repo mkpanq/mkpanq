@@ -10,9 +10,7 @@
 - 👋🏻 See my website - [mkpanq.com](mkpanq.com)
 
 **💪🏻 Currently working on**
-- Building an open source personal finance app – [Cama](https://github.com/mkpanq/cama) 🐶💸
-
-**📖 Currently learning**
 - I'm trying to get deep into local LLMs, AI integration and how to build scalable, local AI agentic infrastructures 🐍
+- Learning how to effective use AI Agents in async development using [Codex](https://chatgpt.com/codex). Mainly used in in [Cama](https://github.com/mkpanq/cama) 🐶💸 - an open source personal and private finance app
 
-_Last update: August 5rd 2025_
+_Last update: August 29th 2025_
