@@ -10,7 +10,9 @@
 - 👋🏻 See my website - [mkpanq.com](mkpanq.com)
 
 **💪🏻 Currently working on**
-- I'm trying to get deep into local LLMs, AI integration and how to build scalable, local AI agentic infrastructures 🐍
-- Learning how to effective use AI Agents in async development using [Codex](https://chatgpt.com/codex). Mainly used in in [Cama](https://github.com/mkpanq/cama) 🐶💸 - an open source personal and private finance app
+- Creating personal finance app called [Cama](https://github.com/mkpanq/cama) 🐶💸. Also learning how to effective use AI Agents in async development using [Codex](https://chatgpt.com/codex).
 
-_Last update: August 29th 2025_
+**💭 What I want to start**
+- I want to get deep into local LLMs, AI integration and how to build scalable, local AI agentic infrastructures 🐍
+
+_Last update: September 4th 2025_
