@@ -7,7 +7,7 @@
 - 💼 I'm currently looking for new job opportunities - let's connect !
 - 🏖️ Outside of work, I’m into Formula 1 🏎️, the NBA 🏀 (go Heat 🔥), sim racing 🛞 and the occasional PS5 session 🎮
 - 📫 Reach me via email or on [LinkedIn](https://www.linkedin.com/in/mkpanq), [GitHub](https://github.com/mkpanq), or [Bluesky](https://bsky.app/profile/mkpanq.com)
-- 👋🏻 See my website - [mkpanq.com](mkpanq.com)
+- 👋🏻 See my website - [mkpanq.com](https://mkpanq.com)
 
 **💪🏻 Currently working on**
 - Creating personal finance app called [Cama](https://github.com/mkpanq/cama) 🐶💸. Also learning how to effective use AI Agents in async development using [Codex](https://chatgpt.com/codex).
