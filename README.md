@@ -1,4 +1,4 @@
-<img width="1188" height="370" alt="Screenshot 2025-07-28 at 18 14 17" src="https://github.com/user-attachments/assets/703508b6-3406-47da-beee-7453c26563ca" />
+<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/01dc8f2a-c6d9-484b-8de5-52d59dcfad7c" />
 
 
 # **I’m a fullstack developer from Warsaw, Poland ! 🇵🇱**
