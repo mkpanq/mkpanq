@@ -1,6 +1,3 @@
-<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/01dc8f2a-c6d9-484b-8de5-52d59dcfad7c" />
-
-
 # **I’m a fullstack developer from Warsaw, Poland ! 🇵🇱**
 
 - ⚙️ My daily stack: React, TypeScript, Ruby on Rails — but I like picking the right tool for the job and love to learn a new things!
