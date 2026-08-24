@@ -6,4 +6,3 @@
 
 ### 📫 How to reach me:
 - https://x.com/mkpanq
-- [mkpanq.com](https://mkpanq.com)
