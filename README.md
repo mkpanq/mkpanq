@@ -5,4 +5,4 @@
 - 🔎 **I’m currently exploring** world of self hosting, local-first workflows and private infrastructure stuff on my personal homelab
 
 ### 📫 How to reach me:
-- https://x.com/mkpanq
+- (https://bsky.app/profile/mkpanq.com)[Bluesky 🦋]
